@@ -76,7 +76,7 @@ Perfect for educational and portfolio projects
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/MoodSense-ML.git
+git clone https://github.com/Sindu0706/MoodSense-ML.git
 cd MoodSense-ML
 2️⃣ Install dependencies
 pip install -r requirements.txt
